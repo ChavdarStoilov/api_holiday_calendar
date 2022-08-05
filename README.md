@@ -7,6 +7,20 @@
 - Second option is choose specific month or get all holidays for year
 - Third option is choose specific Country
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChavdarStoilov&show_icons=true&theme=radical)
+### Contact with me:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChavdarStoilov&layout=compact)
+<a href="https://www.linkedin.com/in/chavdar-stoilov-7a8088167/" >
+  <img align="left" alt="Linkedin" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" />
+  
+</a>
+
+<a href="https://www.instagram.com/ch0ch0o/" >
+  <img align="left" alt="instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
+  
+</a>
+
+<a target="_blank" href="mailto:stoilov.chavdar@gmail.com">
+
+  <img align="left" alt="Gmail" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />
+  
+</a>
